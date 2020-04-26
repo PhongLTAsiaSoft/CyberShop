@@ -1,0 +1,5 @@
+D:\SourceCode\CyberShop\CyberShop\CyberShop.UnitTest\bin\Debug\CyberShop.UnitTest.dll
+D:\SourceCode\CyberShop\CyberShop\CyberShop.UnitTest\bin\Debug\CyberShop.UnitTest.pdb
+D:\SourceCode\CyberShop\CyberShop\CyberShop.UnitTest\obj\Debug\CyberShop.UnitTest.csprojResolveAssemblyReference.cache
+D:\SourceCode\CyberShop\CyberShop\CyberShop.UnitTest\obj\Debug\CyberShop.UnitTest.dll
+D:\SourceCode\CyberShop\CyberShop\CyberShop.UnitTest\obj\Debug\CyberShop.UnitTest.pdb

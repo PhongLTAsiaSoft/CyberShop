@@ -1,0 +1,5 @@
+D:\SourceCode\CyberShop\CyberShop\CyberShop.Model\bin\Debug\CyberShop.Model.dll
+D:\SourceCode\CyberShop\CyberShop\CyberShop.Model\bin\Debug\CyberShop.Model.pdb
+D:\SourceCode\CyberShop\CyberShop\CyberShop.Model\obj\Debug\CyberShop.Model.csprojResolveAssemblyReference.cache
+D:\SourceCode\CyberShop\CyberShop\CyberShop.Model\obj\Debug\CyberShop.Model.dll
+D:\SourceCode\CyberShop\CyberShop\CyberShop.Model\obj\Debug\CyberShop.Model.pdb
